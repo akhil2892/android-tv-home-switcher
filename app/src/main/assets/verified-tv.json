@@ -1,0 +1,10 @@
+{
+  "fingerprint": "Sony/BRAVIA_ATV3_4K_PA/BRAVIA_ATV3_4K:9/PTT1.190515.001.S54/672201:user/release-keys",
+  "user": "0",
+  "stockComponent": "com.google.android.tvlauncher/.MainActivity",
+  "testedCustomComponent": "com.gathin.tvhome/.MainActivity",
+  "settingsComponent": "com.android.tv.settings/com.sony.dtv.settings.MainSettings",
+  "inputsComponent": "com.sony.dtv.tvx/.inputselect.InputSelectionActivity",
+  "originalDisabledPackages": ["com.sony.dtv.kenhchonloc", "com.sony.dtv.notifybravia"],
+  "note": "Recorded configuration for the user-authorized package-switch trial. Not a firmware or app-data backup. Other firmware requires fresh diagnosis and recovery proof."
+}
